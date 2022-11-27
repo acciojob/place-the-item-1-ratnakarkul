@@ -1,2 +1,10 @@
+.holder{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    column-gap: 15px;
+    row-gap: 15px;
+}
 
 /* Your CSS Code here. */
